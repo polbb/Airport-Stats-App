@@ -2,7 +2,7 @@
 ## __Tittle:__ Airport Data Management and Visualization
 This repository contains a comprehensive GUI-based application tailored for the management and visualization of airport data. The application showcases the integration of a MongoDB database, an intuitive user interface, and backend processing capabilities.
 
-## Key Features:
+## Key Features: 
 
 __Data Management:__ 
 Load, filter, and interact with airport-related data, including details about runways, frequencies, and more.
